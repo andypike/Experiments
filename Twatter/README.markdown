@@ -25,4 +25,6 @@ Once you have the gems installed, you can run Twatter with the following:
 
     ruby twatter.rb
 
-Twatter is my very first Ruby application so it probably isn't written the best way, so any comments are welcome. You can contact me via Twitter: @andypike
+Twatter is my very first Ruby application so it probably isn't written the best way, so any comments are welcome (please go easy on me). There are no tests as yet, I'm learning the language first ;o)
+
+You can contact me via Twitter: @andypike
