@@ -2,8 +2,6 @@
 
 Twatter is a very basic console Twitter client.
 
-Twatter is my very first Ruby application so it probably isn't written the best way, so any comments are welcome.
-
 Here are the supported commands:
 
 * exit => Exits the application
@@ -21,5 +19,10 @@ Here are the supported commands:
 
 Twatter requires the following gems:
 
-* gem install json
+    gem install json
 
+Once you have the gems installed, you can run Twatter with the following:
+
+    ruby twatter.rb
+
+Twatter is my very first Ruby application so it probably isn't written the best way, so any comments are welcome. You can contact me via Twitter: @andypike
