@@ -15,7 +15,7 @@ Here are the supported commands:
 * favorites => Lists the latest 20 tweets that you have marked as your favorite
 * follow => Allows you to follow a new friend
 * unfollow => Allows you to stop following a friend
-* following => Lists up to 100 friends that you are followering
+* following => Lists up to 100 friends that you are following
 
 Twatter requires the following gems:
 
